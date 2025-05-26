@@ -1,8 +1,4 @@
-DROP TABLE rangers
 
-DROP TABLE species
-
-DROP TABLE sightings
 
 CREATE TABLE rangers(
     ranger_id SERIAL PRIMARY KEY,
